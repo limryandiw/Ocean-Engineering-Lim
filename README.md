@@ -11,6 +11,7 @@ All of the data is taken in the late Summer until beginning of Fall season, exce
 
 Data acquisition:
 Most of the data is downloaded from NODC, part of NOAA website.
+Equipment link: https://oceanexplorer.noaa.gov/facts/ctd.html
 
 Link to Data:
 1. Chukchi Sea in Arctic Ocean : https://www.nodc.noaa.gov/cgi-bin/OAS/prd/accession/download/61042
